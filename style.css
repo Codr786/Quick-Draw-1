@@ -1,0 +1,61 @@
+h1{
+    size:30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    align-items: center;
+    background-color:#F2EFE5 ;
+    height:49px;
+}
+#show_sketch{
+    float: right;
+    font-size:25px;
+    border: 1px, solid;
+    border-radius: 10px;
+    border-color: black;
+}
+#label{
+    font-size:35px;
+    font-weight: 500;
+    color:#000000;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 3px, solid;
+    border-style:ridge;
+    border-color: #000000;
+
+
+}
+#confidence{
+    font-size:35px;
+    font-weight: 500;
+    color:#000000;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 3px, solid;
+    border-style:ridge;
+    border-color: #000000;
+
+}
+#draw{
+  border: 10px inset brown;
+  height:330px;
+  width:400px;
+  background-color: aliceblue;
+}
+#score{
+    float: left;
+    font-size:30px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#timer{
+    margin-right:-860px;
+    font-size:30px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#score_result{
+    float: left;
+}
+#timer_result{
+    float: right;
+}
+
